@@ -1,7 +1,7 @@
 <?php
 	session_start();
 	error_reporting(0);
-	$url = "http://localhost:8080/qlsv/";
+	$url = "http://localhost/qlsv/";
  ?>
 <!DOCTYPE html>
 <html lang="vi">
